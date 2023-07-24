@@ -1,4 +1,4 @@
-# House-Tax-prediction
+
 # House Tax Prediction Using Machine Learning
 
 This project aims to predict the house tax for properties in Boston, Massachusetts, using various machine learning algorithms. The dataset used for training and testing the models contains information about different features related to the properties in Boston, such as crime rate, zoning proportions, proximity to Charles River, nitric oxides concentration, number of rooms, age of houses, accessibility to highways, and more.
